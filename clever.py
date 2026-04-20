@@ -1,0 +1,13 @@
+#I used lower
+print ('Please enter the following:')
+adjective= input ('Adjecive:')
+animal= input ('Animal:')
+verb= input ('Verb:')
+exclamation= input ('Exclamation:')
+verb_one= input ('Verb:')
+verb_two= input ('Verb:')
+print ('The other day, I was really in trouble. It all started when I saw a very')
+print (f'{adjective.lower()} {animal.lower()} {verb.lower()} down the hallway. "{exclamation.upper()}!" I yelled. But all')
+print (f'I could think to do was to {verb_one.lower()} over and over. Miraculously,')
+print (f'that caused it to stop, just not before it tried to {verb_two.lower()}')
+print ('right in front of my family.')
