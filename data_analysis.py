@@ -9,7 +9,7 @@ average = 0
 counter = 0 
 life_expectancy_total = 0
 min_life_expectancy = 9999999999999
-max_life_expectancy = -1
+maximum_life_expectancy = -1
 
 
 with open ( "life-expectancy.csv") as data_list:
